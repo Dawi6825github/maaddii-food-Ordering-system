@@ -1,3 +1,8 @@
+maaddii fod ordering system developed in july 2024, for ethiopian peoples who live in Bale Robe for first time and its extendable project to any country and cities also the goal to run this project is to decrease time and cost for extraordinary things when on work.this project written with javascript programming language with react-native-cli and backend firebase for first time and that's mobile app not website, still this project on running and updating....
+
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
